@@ -1,4 +1,4 @@
-//Student: Aiya Talpkaliyeva
+//Student: Akniyet Alibek
 //ID: 20MD0254
 
 import React from 'react';
